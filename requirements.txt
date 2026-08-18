@@ -6,3 +6,5 @@ tensorboard
 matplotlib
 streamlit
 ipykernel
+keras
+scikeras
